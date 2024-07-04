@@ -32,7 +32,7 @@ In this small project, build out this Coming Soon page and get it looking as clo
 ### Links
 
 - Solution URL: https://github.com/aratidsa/Ping-Single-Column-Coming-Soon-Page
-- Live Site URL: 
+- Live Site URL: https://design-ping-single-column-coming-soon.netlify.app
 
 ## My process
 
