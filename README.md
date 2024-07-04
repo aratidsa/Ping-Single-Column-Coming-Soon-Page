@@ -23,12 +23,15 @@ In this small project, build out this Coming Soon page and get it looking as clo
      - The email address is not formatted correctly
 ### Screenshot
 - Desktop
+![screencapture-127-0-0-1-5500-index-html-2024-07-04-21_12_41](https://github.com/aratidsa/Ping-Single-Column-Coming-Soon-Page/assets/128802362/7175ed76-f540-4855-a2a5-af24f89ea494)
   
 - Mobile
+  
+![screencapture-127-0-0-1-5500-index-html-2024-07-04-21_08_44](https://github.com/aratidsa/Ping-Single-Column-Coming-Soon-Page/assets/128802362/261c9620-d787-4fa6-b89d-3a2a0ae905c6)
 
 ### Links
 
-- Solution URL: 
+- Solution URL: https://github.com/aratidsa/Ping-Single-Column-Coming-Soon-Page
 - Live Site URL: 
 
 ## My process
